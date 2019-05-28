@@ -19,4 +19,6 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 
 
+4. 安装[nerdtree](https://github.com/scrooloose/nerdtree)
+git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 
